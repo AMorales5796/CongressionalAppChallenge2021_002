@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CongressionalAppChallenge2021_002</string>
+    <string name="appName">Latibule</string>
+    <string name="settingButton">Settings</string>
+    <string name="createNewGoalButton">Add a new goal</string>
+    <string name="diaryButton">Diary</string>
+    <string name="goalsButton">Goals</string>
+    <string name="guidanceButton">Guidance</string>
+    <string name="quotesButton">Quotes</string>
+</resources>
